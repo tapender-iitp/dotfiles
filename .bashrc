@@ -1,1 +1,1 @@
-alias ll='ls -ltr'
+alias t='echo t'
